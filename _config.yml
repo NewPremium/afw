@@ -14,10 +14,10 @@ github_username:  NewPremium
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
-google-analytics:  Kaspersky 사용자분들은 먼저 카스퍼스키 예외처리에서 C:\Windows\System32\drivers\etc\hosts 경로를 검사 예외처리 해주세요.<br>백신이 설치되어 있다면 프로그램이 들어있는 폴더를 통째로 검사 예외처리 해주세요.<br>이 프로그램은 관리자 권한이 필요합니다.<br>V3 사용자분들은 hosts 파일 설치 후 hosts 파일 초기화 권장 메시지가 나올 수 있는데 이때 '아니오'를 눌러주세요. '예'를 누르실 경우 hosts 파일을 재설치해야 합니다.<br>hosts 파일 설치 후 재부팅을 권장합니다.
-  id: ""
+google-analytics:  
+id: ""
 
 # Etc
-precautions:  
+precautions:  Kaspersky 사용자분들은 먼저 카스퍼스키 예외처리에서 C:\Windows\System32\drivers\etc\hosts 경로를 검사 예외처리 해주세요.<br>백신이 설치되어 있다면 프로그램이 들어있는 폴더를 통째로 검사 예외처리 해주세요.<br>이 프로그램은 관리자 권한이 필요합니다.<br>V3 사용자분들은 hosts 파일 설치 후 hosts 파일 초기화 권장 메시지가 나올 수 있는데 이때 '아니오'를 눌러주세요. '예'를 누르실 경우 hosts 파일을 재설치해야 합니다.<br>hosts 파일 설치 후 재부팅을 권장합니다.
 
 exclude: ['package.json', 'src' , 'node_modules']
